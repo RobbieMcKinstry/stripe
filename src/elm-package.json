@@ -3,13 +3,12 @@
     "summary": "Wrapper for the Stripe Checkout embedded form.",
     "repository": "https://github.com/RobbieMcKinstry/stripe.git",
     "license": "MIT",
-    "source-directories": [
-        "src"
-    ],
-    "exposed-modules": ["Stripe"],
+    "exposed-modules": [],
+    "source-directories": "src",
     "dependencies": {
-        "elm-lang/core": "4.0.3 <= v < 5.0.0",
-        "elm-lang/html": "1.1.0 <= v < 2.0.0"
+        "elm-lang/core": "4.0.0 <= v < 5.0.0",
+        "elm-lang/html": "1.0.0 <= v < 2.0.0",
+        "evancz/elm-http": "3.0.1 <= v < 4.0.0"
     },
     "elm-version": "0.17.0 <= v < 0.18.0"
 }
