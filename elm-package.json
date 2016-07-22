@@ -1,11 +1,8 @@
 {
     "version": "1.0.0",
     "summary": "Wrapper for the Stripe Checkout embedded form. https://stripe.com/docs/checkout/tutorial",
-    "repository": "https://github.com/moarwick/elm-webpack-starter.git",
+    "repository": "https://github.com/RobbieMcKinstry/Stripe",
     "license": "MIT",
-    "source-directories": [
-        "src"
-    ],
     "exposed-modules": [],
     "dependencies": {
         "elm-lang/core": "4.0.0 <= v < 5.0.0",
